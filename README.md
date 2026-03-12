@@ -2,7 +2,7 @@
 
 🎓 IT graduate from **DUT (Danang University of Science and Technology)**.  
 💡 Passionate about **backend development** and **database design**.  
-🧩 With **1.5 years of experience** in **database analysis, ERD modeling, and SQL logic**, I enjoy solving real-world data problems.  
+🧩 With **2 years of experience** in **database analysis, ERD modeling, and SQL logic**, I enjoy solving real-world data problems.  
 🔥 I’m deeply interested in **Java, JavaScript, TypeScript, and SQL** — and always exploring how they can work together.  
 🌱 Currently learning more about **Spring Boot, ExpressJS, NestJS**, and **system design**.  
 📧 **nguyenvanthinh100102@gmail.com**
